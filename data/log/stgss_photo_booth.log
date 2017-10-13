@@ -1,0 +1,542 @@
+Jul 05, 2017 2:11:47 PM SimpleLogger info
+INFO: Printer Controller sets scale to 0.3968503824869792 x 0.332161768164209
+
+Jul 05, 2017 2:11:47 PM SimpleLogger info
+INFO: Printer Controller sets translate to 0.0 x 0.0
+
+Jul 05, 2017 2:11:47 PM SimpleLogger info
+INFO: Printer Controller sets scale to 0.3968503824869792 x 0.332161768164209
+
+Jul 05, 2017 2:11:47 PM SimpleLogger info
+INFO: Printer Controller sets translate to 0.0 x 0.0
+
+Jul 05, 2017 2:11:47 PM SimpleLogger info
+INFO: Printer Controller sets scale to 0.3968503824869792 x 0.332161768164209
+
+Jul 05, 2017 2:11:47 PM SimpleLogger info
+INFO: Printer Controller sets translate to 0.0 x 0.0
+
+Jul 05, 2017 2:11:47 PM SimpleLogger info
+INFO: Printer Controller 1 copy printed.
+
+Jul 05, 2017 2:11:47 PM SimpleLogger info
+INFO: Page Print printing photo finished
+
+Jul 05, 2017 2:12:07 PM SimpleLogger info
+INFO: Page Print gif export finished.
+
+Jul 05, 2017 2:12:07 PM SimpleLogger info
+INFO: Page 0 setup finished.
+
+Jul 05, 2017 2:12:09 PM SimpleLogger info
+INFO: Page Start btnStart clicked.
+
+Jul 05, 2017 2:12:09 PM SimpleLogger info
+INFO: Page Instruction setup finished.
+
+Jul 05, 2017 2:12:10 PM SimpleLogger info
+INFO: Page Instruction btnTakePhoto clicked.
+
+Jul 05, 2017 2:12:10 PM SimpleLogger info
+INFO: Page TakePhoto setup finished.
+
+Jul 05, 2017 2:12:10 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:12:16 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:12:17 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:12:18 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:12:19 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:12:20 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:12:21 PM SimpleLogger info
+INFO: Page ShowGif setup finished.
+
+Jul 05, 2017 2:12:23 PM SimpleLogger info
+INFO: Page ShowGif btnPreparePrint clicked.
+
+Jul 05, 2017 2:12:24 PM SimpleLogger info
+INFO: Page PreparePrint setup finished
+
+Jul 05, 2017 2:12:30 PM SimpleLogger info
+INFO: Photo booth finished.
+
+Jul 05, 2017 2:33:30 PM SimpleLogger info
+INFO: Setup started.
+
+Jul 05, 2017 2:33:32 PM SimpleLogger severe
+SEVERE: java.lang.Exception: No cameras available for capture.
+	at PhotoBooth.setup(PhotoBooth.java:170)
+	at processing.core.PApplet.handleDraw(PApplet.java:2414)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1547)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+
+
+Jul 05, 2017 2:33:32 PM SimpleLogger info
+INFO: Photo booth finished.
+
+Jul 05, 2017 2:33:51 PM SimpleLogger info
+INFO: Setup started.
+
+Jul 05, 2017 2:33:58 PM SimpleLogger info
+INFO: Available cameras:
+cam no.0 name=Logitech HD Pro Webcam C920,size=640x480,fps=5
+cam no.1 name=Logitech HD Pro Webcam C920,size=640x480,fps=30
+cam no.2 name=Logitech HD Pro Webcam C920,size=160x90,fps=5
+cam no.3 name=Logitech HD Pro Webcam C920,size=160x90,fps=30
+cam no.4 name=Logitech HD Pro Webcam C920,size=160x120,fps=5
+cam no.5 name=Logitech HD Pro Webcam C920,size=160x120,fps=30
+cam no.6 name=Logitech HD Pro Webcam C920,size=176x144,fps=5
+cam no.7 name=Logitech HD Pro Webcam C920,size=176x144,fps=30
+cam no.8 name=Logitech HD Pro Webcam C920,size=320x180,fps=5
+cam no.9 name=Logitech HD Pro Webcam C920,size=320x180,fps=30
+cam no.10 name=Logitech HD Pro Webcam C920,size=320x240,fps=5
+cam no.11 name=Logitech HD Pro Webcam C920,size=320x240,fps=30
+cam no.12 name=Logitech HD Pro Webcam C920,size=352x288,fps=5
+cam no.13 name=Logitech HD Pro Webcam C920,size=352x288,fps=30
+cam no.14 name=Logitech HD Pro Webcam C920,size=432x240,fps=5
+cam no.15 name=Logitech HD Pro Webcam C920,size=432x240,fps=30
+cam no.16 name=Logitech HD Pro Webcam C920,size=640x360,fps=5
+cam no.17 name=Logitech HD Pro Webcam C920,size=640x360,fps=30
+cam no.18 name=Logitech HD Pro Webcam C920,size=800x448,fps=5
+cam no.19 name=Logitech HD Pro Webcam C920,size=800x448,fps=30
+cam no.20 name=Logitech HD Pro Webcam C920,size=800x600,fps=5
+cam no.21 name=Logitech HD Pro Webcam C920,size=800x600,fps=30
+cam no.22 name=Logitech HD Pro Webcam C920,size=864x480,fps=5
+cam no.23 name=Logitech HD Pro Webcam C920,size=864x480,fps=30
+cam no.24 name=Logitech HD Pro Webcam C920,size=960x720,fps=5
+cam no.25 name=Logitech HD Pro Webcam C920,size=960x720,fps=30
+cam no.26 name=Logitech HD Pro Webcam C920,size=1024x576,fps=5
+cam no.27 name=Logitech HD Pro Webcam C920,size=1024x576,fps=30
+cam no.28 name=Logitech HD Pro Webcam C920,size=1280x720,fps=5
+cam no.29 name=Logitech HD Pro Webcam C920,size=1280x720,fps=30
+cam no.30 name=Logitech HD Pro Webcam C920,size=1600x896,fps=5
+cam no.31 name=Logitech HD Pro Webcam C920,size=1600x896,fps=30
+cam no.32 name=Logitech HD Pro Webcam C920,size=1920x1080,fps=5
+cam no.33 name=Logitech HD Pro Webcam C920,size=1920x1080,fps=30
+cam no.34 name=Logitech HD Pro Webcam C920,size=640x480,fps=5
+cam no.35 name=Logitech HD Pro Webcam C920,size=640x480,fps=30
+cam no.36 name=Logitech HD Pro Webcam C920,size=160x90,fps=5
+cam no.37 name=Logitech HD Pro Webcam C920,size=160x90,fps=30
+cam no.38 name=Logitech HD Pro Webcam C920,size=160x120,fps=5
+cam no.39 name=Logitech HD Pro Webcam C920,size=160x120,fps=30
+cam no.40 name=Logitech HD Pro Webcam C920,size=176x144,fps=5
+cam no.41 name=Logitech HD Pro Webcam C920,size=176x144,fps=30
+cam no.42 name=Logitech HD Pro Webcam C920,size=320x180,fps=5
+cam no.43 name=Logitech HD Pro Webcam C920,size=320x180,fps=30
+cam no.44 name=Logitech HD Pro Webcam C920,size=320x240,fps=5
+cam no.45 name=Logitech HD Pro Webcam C920,size=320x240,fps=30
+cam no.46 name=Logitech HD Pro Webcam C920,size=352x288,fps=5
+cam no.47 name=Logitech HD Pro Webcam C920,size=352x288,fps=30
+cam no.48 name=Logitech HD Pro Webcam C920,size=432x240,fps=5
+cam no.49 name=Logitech HD Pro Webcam C920,size=432x240,fps=30
+cam no.50 name=Logitech HD Pro Webcam C920,size=640x360,fps=5
+cam no.51 name=Logitech HD Pro Webcam C920,size=640x360,fps=30
+cam no.52 name=Logitech HD Pro Webcam C920,size=800x448,fps=5
+cam no.53 name=Logitech HD Pro Webcam C920,size=800x448,fps=30
+cam no.54 name=Logitech HD Pro Webcam C920,size=800x600,fps=5
+cam no.55 name=Logitech HD Pro Webcam C920,size=800x600,fps=30
+cam no.56 name=Logitech HD Pro Webcam C920,size=864x480,fps=5
+cam no.57 name=Logitech HD Pro Webcam C920,size=864x480,fps=30
+cam no.58 name=Logitech HD Pro Webcam C920,size=960x720,fps=5
+cam no.59 name=Logitech HD Pro Webcam C920,size=960x720,fps=30
+cam no.60 name=Logitech HD Pro Webcam C920,size=1024x576,fps=5
+cam no.61 name=Logitech HD Pro Webcam C920,size=1024x576,fps=30
+cam no.62 name=Logitech HD Pro Webcam C920,size=1280x720,fps=5
+cam no.63 name=Logitech HD Pro Webcam C920,size=1280x720,fps=30
+cam no.64 name=Logitech HD Pro Webcam C920,size=1600x896,fps=5
+cam no.65 name=Logitech HD Pro Webcam C920,size=1600x896,fps=30
+cam no.66 name=Logitech HD Pro Webcam C920,size=1920x1080,fps=5
+cam no.67 name=Logitech HD Pro Webcam C920,size=1920x1080,fps=30
+cam no.68 name=Logitech HD Pro Webcam C920,size=2304x1296,fps=2
+cam no.69 name=Logitech HD Pro Webcam C920,size=2304x1536,fps=2
+cam no.70 name=Logitech HD Pro Webcam C920,size=640x480,fps=5
+cam no.71 name=Logitech HD Pro Webcam C920,size=640x480,fps=30
+cam no.72 name=Logitech HD Pro Webcam C920,size=160x90,fps=5
+cam no.73 name=Logitech HD Pro Webcam C920,size=160x90,fps=30
+cam no.74 name=Logitech HD Pro Webcam C920,size=160x120,fps=5
+cam no.75 name=Logitech HD Pro Webcam C920,size=160x120,fps=30
+cam no.76 name=Logitech HD Pro Webcam C920,size=176x144,fps=5
+cam no.77 name=Logitech HD Pro Webcam C920,size=176x144,fps=30
+cam no.78 name=Logitech HD Pro Webcam C920,size=320x180,fps=5
+cam no.79 name=Logitech HD Pro Webcam C920,size=320x180,fps=30
+cam no.80 name=Logitech HD Pro Webcam C920,size=320x240,fps=5
+cam no.81 name=Logitech HD Pro Webcam C920,size=320x240,fps=30
+cam no.82 name=Logitech HD Pro Webcam C920,size=352x288,fps=5
+cam no.83 name=Logitech HD Pro Webcam C920,size=352x288,fps=30
+cam no.84 name=Logitech HD Pro Webcam C920,size=432x240,fps=5
+cam no.85 name=Logitech HD Pro Webcam C920,size=432x240,fps=30
+cam no.86 name=Logitech HD Pro Webcam C920,size=640x360,fps=5
+cam no.87 name=Logitech HD Pro Webcam C920,size=640x360,fps=30
+cam no.88 name=Logitech HD Pro Webcam C920,size=800x448,fps=5
+cam no.89 name=Logitech HD Pro Webcam C920,size=800x448,fps=30
+cam no.90 name=Logitech HD Pro Webcam C920,size=800x600,fps=5
+cam no.91 name=Logitech HD Pro Webcam C920,size=800x600,fps=30
+cam no.92 name=Logitech HD Pro Webcam C920,size=864x480,fps=5
+cam no.93 name=Logitech HD Pro Webcam C920,size=864x480,fps=30
+cam no.94 name=Logitech HD Pro Webcam C920,size=960x720,fps=5
+cam no.95 name=Logitech HD Pro Webcam C920,size=960x720,fps=30
+cam no.96 name=Logitech HD Pro Webcam C920,size=1024x576,fps=5
+cam no.97 name=Logitech HD Pro Webcam C920,size=1024x576,fps=30
+cam no.98 name=Logitech HD Pro Webcam C920,size=1280x720,fps=5
+cam no.99 name=Logitech HD Pro Webcam C920,size=1280x720,fps=30
+cam no.100 name=Logitech HD Pro Webcam C920,size=1600x896,fps=5
+cam no.101 name=Logitech HD Pro Webcam C920,size=1600x896,fps=30
+cam no.102 name=Logitech HD Pro Webcam C920,size=1920x1080,fps=5
+cam no.103 name=Logitech HD Pro Webcam C920,size=1920x1080,fps=30
+cam no.104 name=Logitech HD Pro Webcam C920,size=2304x1296,fps=2
+cam no.105 name=Logitech HD Pro Webcam C920,size=2304x1536,fps=2
+
+
+Jul 05, 2017 2:33:59 PM SimpleLogger info
+INFO: Camera processing.video.Capture@1f1f322 started.
+
+Jul 05, 2017 2:33:59 PM SimpleLogger info
+INFO: Loading page objects started.
+
+Jul 05, 2017 2:34:06 PM SimpleLogger info
+INFO: Loading page objects finished.
+
+Jul 05, 2017 2:34:06 PM SimpleLogger info
+INFO: Setup finished.
+
+Jul 05, 2017 2:34:06 PM SimpleLogger info
+INFO: Page 0 setup finished.
+
+Jul 05, 2017 2:34:29 PM SimpleLogger info
+INFO: Page Start btnStart clicked.
+
+Jul 05, 2017 2:34:29 PM SimpleLogger info
+INFO: Page Instruction setup finished.
+
+Jul 05, 2017 2:34:29 PM SimpleLogger info
+INFO: Page Instruction btnTakePhoto clicked.
+
+Jul 05, 2017 2:34:30 PM SimpleLogger info
+INFO: Page TakePhoto setup finished.
+
+Jul 05, 2017 2:34:36 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:34:37 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:34:38 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:34:39 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:34:40 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:34:41 PM SimpleLogger info
+INFO: Page ShowGif setup finished.
+
+Jul 05, 2017 2:35:30 PM SimpleLogger info
+INFO: Page ShowGif btnPreparePrint clicked.
+
+Jul 05, 2017 2:35:30 PM SimpleLogger info
+INFO: Page PreparePrint setup finished
+
+Jul 05, 2017 2:35:36 PM SimpleLogger info
+INFO: Photo booth finished.
+
+Jul 05, 2017 2:36:24 PM SimpleLogger info
+INFO: Setup started.
+
+Jul 05, 2017 2:36:41 PM SimpleLogger info
+INFO: Available cameras:
+cam no.0 name=Logitech HD Pro Webcam C920,size=640x480,fps=5
+cam no.1 name=Logitech HD Pro Webcam C920,size=640x480,fps=30
+cam no.2 name=Logitech HD Pro Webcam C920,size=160x90,fps=5
+cam no.3 name=Logitech HD Pro Webcam C920,size=160x90,fps=30
+cam no.4 name=Logitech HD Pro Webcam C920,size=160x120,fps=5
+cam no.5 name=Logitech HD Pro Webcam C920,size=160x120,fps=30
+cam no.6 name=Logitech HD Pro Webcam C920,size=176x144,fps=5
+cam no.7 name=Logitech HD Pro Webcam C920,size=176x144,fps=30
+cam no.8 name=Logitech HD Pro Webcam C920,size=320x180,fps=5
+cam no.9 name=Logitech HD Pro Webcam C920,size=320x180,fps=30
+cam no.10 name=Logitech HD Pro Webcam C920,size=320x240,fps=5
+cam no.11 name=Logitech HD Pro Webcam C920,size=320x240,fps=30
+cam no.12 name=Logitech HD Pro Webcam C920,size=352x288,fps=5
+cam no.13 name=Logitech HD Pro Webcam C920,size=352x288,fps=30
+cam no.14 name=Logitech HD Pro Webcam C920,size=432x240,fps=5
+cam no.15 name=Logitech HD Pro Webcam C920,size=432x240,fps=30
+cam no.16 name=Logitech HD Pro Webcam C920,size=640x360,fps=5
+cam no.17 name=Logitech HD Pro Webcam C920,size=640x360,fps=30
+cam no.18 name=Logitech HD Pro Webcam C920,size=800x448,fps=5
+cam no.19 name=Logitech HD Pro Webcam C920,size=800x448,fps=30
+cam no.20 name=Logitech HD Pro Webcam C920,size=800x600,fps=5
+cam no.21 name=Logitech HD Pro Webcam C920,size=800x600,fps=30
+cam no.22 name=Logitech HD Pro Webcam C920,size=864x480,fps=5
+cam no.23 name=Logitech HD Pro Webcam C920,size=864x480,fps=30
+cam no.24 name=Logitech HD Pro Webcam C920,size=960x720,fps=5
+cam no.25 name=Logitech HD Pro Webcam C920,size=960x720,fps=30
+cam no.26 name=Logitech HD Pro Webcam C920,size=1024x576,fps=5
+cam no.27 name=Logitech HD Pro Webcam C920,size=1024x576,fps=30
+cam no.28 name=Logitech HD Pro Webcam C920,size=1280x720,fps=5
+cam no.29 name=Logitech HD Pro Webcam C920,size=1280x720,fps=30
+cam no.30 name=Logitech HD Pro Webcam C920,size=1600x896,fps=5
+cam no.31 name=Logitech HD Pro Webcam C920,size=1600x896,fps=30
+cam no.32 name=Logitech HD Pro Webcam C920,size=1920x1080,fps=5
+cam no.33 name=Logitech HD Pro Webcam C920,size=1920x1080,fps=30
+cam no.34 name=Logitech HD Pro Webcam C920,size=640x480,fps=5
+cam no.35 name=Logitech HD Pro Webcam C920,size=640x480,fps=30
+cam no.36 name=Logitech HD Pro Webcam C920,size=160x90,fps=5
+cam no.37 name=Logitech HD Pro Webcam C920,size=160x90,fps=30
+cam no.38 name=Logitech HD Pro Webcam C920,size=160x120,fps=5
+cam no.39 name=Logitech HD Pro Webcam C920,size=160x120,fps=30
+cam no.40 name=Logitech HD Pro Webcam C920,size=176x144,fps=5
+cam no.41 name=Logitech HD Pro Webcam C920,size=176x144,fps=30
+cam no.42 name=Logitech HD Pro Webcam C920,size=320x180,fps=5
+cam no.43 name=Logitech HD Pro Webcam C920,size=320x180,fps=30
+cam no.44 name=Logitech HD Pro Webcam C920,size=320x240,fps=5
+cam no.45 name=Logitech HD Pro Webcam C920,size=320x240,fps=30
+cam no.46 name=Logitech HD Pro Webcam C920,size=352x288,fps=5
+cam no.47 name=Logitech HD Pro Webcam C920,size=352x288,fps=30
+cam no.48 name=Logitech HD Pro Webcam C920,size=432x240,fps=5
+cam no.49 name=Logitech HD Pro Webcam C920,size=432x240,fps=30
+cam no.50 name=Logitech HD Pro Webcam C920,size=640x360,fps=5
+cam no.51 name=Logitech HD Pro Webcam C920,size=640x360,fps=30
+cam no.52 name=Logitech HD Pro Webcam C920,size=800x448,fps=5
+cam no.53 name=Logitech HD Pro Webcam C920,size=800x448,fps=30
+cam no.54 name=Logitech HD Pro Webcam C920,size=800x600,fps=5
+cam no.55 name=Logitech HD Pro Webcam C920,size=800x600,fps=30
+cam no.56 name=Logitech HD Pro Webcam C920,size=864x480,fps=5
+cam no.57 name=Logitech HD Pro Webcam C920,size=864x480,fps=30
+cam no.58 name=Logitech HD Pro Webcam C920,size=960x720,fps=5
+cam no.59 name=Logitech HD Pro Webcam C920,size=960x720,fps=30
+cam no.60 name=Logitech HD Pro Webcam C920,size=1024x576,fps=5
+cam no.61 name=Logitech HD Pro Webcam C920,size=1024x576,fps=30
+cam no.62 name=Logitech HD Pro Webcam C920,size=1280x720,fps=5
+cam no.63 name=Logitech HD Pro Webcam C920,size=1280x720,fps=30
+cam no.64 name=Logitech HD Pro Webcam C920,size=1600x896,fps=5
+cam no.65 name=Logitech HD Pro Webcam C920,size=1600x896,fps=30
+cam no.66 name=Logitech HD Pro Webcam C920,size=1920x1080,fps=5
+cam no.67 name=Logitech HD Pro Webcam C920,size=1920x1080,fps=30
+cam no.68 name=Logitech HD Pro Webcam C920,size=2304x1296,fps=2
+cam no.69 name=Logitech HD Pro Webcam C920,size=2304x1536,fps=2
+cam no.70 name=Logitech HD Pro Webcam C920,size=640x480,fps=5
+cam no.71 name=Logitech HD Pro Webcam C920,size=640x480,fps=30
+cam no.72 name=Logitech HD Pro Webcam C920,size=160x90,fps=5
+cam no.73 name=Logitech HD Pro Webcam C920,size=160x90,fps=30
+cam no.74 name=Logitech HD Pro Webcam C920,size=160x120,fps=5
+cam no.75 name=Logitech HD Pro Webcam C920,size=160x120,fps=30
+cam no.76 name=Logitech HD Pro Webcam C920,size=176x144,fps=5
+cam no.77 name=Logitech HD Pro Webcam C920,size=176x144,fps=30
+cam no.78 name=Logitech HD Pro Webcam C920,size=320x180,fps=5
+cam no.79 name=Logitech HD Pro Webcam C920,size=320x180,fps=30
+cam no.80 name=Logitech HD Pro Webcam C920,size=320x240,fps=5
+cam no.81 name=Logitech HD Pro Webcam C920,size=320x240,fps=30
+cam no.82 name=Logitech HD Pro Webcam C920,size=352x288,fps=5
+cam no.83 name=Logitech HD Pro Webcam C920,size=352x288,fps=30
+cam no.84 name=Logitech HD Pro Webcam C920,size=432x240,fps=5
+cam no.85 name=Logitech HD Pro Webcam C920,size=432x240,fps=30
+cam no.86 name=Logitech HD Pro Webcam C920,size=640x360,fps=5
+cam no.87 name=Logitech HD Pro Webcam C920,size=640x360,fps=30
+cam no.88 name=Logitech HD Pro Webcam C920,size=800x448,fps=5
+cam no.89 name=Logitech HD Pro Webcam C920,size=800x448,fps=30
+cam no.90 name=Logitech HD Pro Webcam C920,size=800x600,fps=5
+cam no.91 name=Logitech HD Pro Webcam C920,size=800x600,fps=30
+cam no.92 name=Logitech HD Pro Webcam C920,size=864x480,fps=5
+cam no.93 name=Logitech HD Pro Webcam C920,size=864x480,fps=30
+cam no.94 name=Logitech HD Pro Webcam C920,size=960x720,fps=5
+cam no.95 name=Logitech HD Pro Webcam C920,size=960x720,fps=30
+cam no.96 name=Logitech HD Pro Webcam C920,size=1024x576,fps=5
+cam no.97 name=Logitech HD Pro Webcam C920,size=1024x576,fps=30
+cam no.98 name=Logitech HD Pro Webcam C920,size=1280x720,fps=5
+cam no.99 name=Logitech HD Pro Webcam C920,size=1280x720,fps=30
+cam no.100 name=Logitech HD Pro Webcam C920,size=1600x896,fps=5
+cam no.101 name=Logitech HD Pro Webcam C920,size=1600x896,fps=30
+cam no.102 name=Logitech HD Pro Webcam C920,size=1920x1080,fps=5
+cam no.103 name=Logitech HD Pro Webcam C920,size=1920x1080,fps=30
+cam no.104 name=Logitech HD Pro Webcam C920,size=2304x1296,fps=2
+cam no.105 name=Logitech HD Pro Webcam C920,size=2304x1536,fps=2
+
+
+Jul 05, 2017 2:36:42 PM SimpleLogger info
+INFO: Camera processing.video.Capture@ebfc98 started.
+
+Jul 05, 2017 2:36:42 PM SimpleLogger info
+INFO: Loading page objects started.
+
+Jul 05, 2017 2:36:48 PM SimpleLogger info
+INFO: Loading page objects finished.
+
+Jul 05, 2017 2:36:48 PM SimpleLogger info
+INFO: Setup finished.
+
+Jul 05, 2017 2:36:48 PM SimpleLogger info
+INFO: Page 0 setup finished.
+
+Jul 05, 2017 2:36:51 PM SimpleLogger info
+INFO: Page Start btnStart clicked.
+
+Jul 05, 2017 2:36:51 PM SimpleLogger info
+INFO: Page Instruction setup finished.
+
+Jul 05, 2017 2:36:51 PM SimpleLogger info
+INFO: Page Instruction btnTakePhoto clicked.
+
+Jul 05, 2017 2:36:51 PM SimpleLogger info
+INFO: Page TakePhoto setup finished.
+
+Jul 05, 2017 2:36:57 PM SimpleLogger severe
+SEVERE: java.lang.NullPointerException
+	at PhotoBooth.saveCameraPictureToTempFolder(PhotoBooth.java:299)
+	at PageTakePhoto.showWhiteFlashAndTakePhoto(PageTakePhoto.java:95)
+	at PageTakePhoto.updatePage(PageTakePhoto.java:51)
+	at PageCollection.updateActivePage(PageCollection.java:71)
+	at PhotoBooth.draw(PhotoBooth.java:207)
+	at processing.core.PApplet.handleDraw(PApplet.java:2439)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1547)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+
+
+Jul 05, 2017 2:36:57 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:36:58 PM SimpleLogger severe
+SEVERE: java.lang.NullPointerException
+	at PhotoBooth.saveCameraPictureToTempFolder(PhotoBooth.java:299)
+	at PageTakePhoto.showWhiteFlashAndTakePhoto(PageTakePhoto.java:95)
+	at PageTakePhoto.updatePage(PageTakePhoto.java:58)
+	at PageCollection.updateActivePage(PageCollection.java:71)
+	at PhotoBooth.draw(PhotoBooth.java:207)
+	at processing.core.PApplet.handleDraw(PApplet.java:2439)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1547)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+
+
+Jul 05, 2017 2:36:58 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:36:59 PM SimpleLogger severe
+SEVERE: java.lang.NullPointerException
+	at PhotoBooth.saveCameraPictureToTempFolder(PhotoBooth.java:299)
+	at PageTakePhoto.showWhiteFlashAndTakePhoto(PageTakePhoto.java:95)
+	at PageTakePhoto.updatePage(PageTakePhoto.java:58)
+	at PageCollection.updateActivePage(PageCollection.java:71)
+	at PhotoBooth.draw(PhotoBooth.java:207)
+	at processing.core.PApplet.handleDraw(PApplet.java:2439)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1547)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+
+
+Jul 05, 2017 2:36:59 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:37:00 PM SimpleLogger severe
+SEVERE: java.lang.NullPointerException
+	at PhotoBooth.saveCameraPictureToTempFolder(PhotoBooth.java:299)
+	at PageTakePhoto.showWhiteFlashAndTakePhoto(PageTakePhoto.java:95)
+	at PageTakePhoto.updatePage(PageTakePhoto.java:58)
+	at PageCollection.updateActivePage(PageCollection.java:71)
+	at PhotoBooth.draw(PhotoBooth.java:207)
+	at processing.core.PApplet.handleDraw(PApplet.java:2439)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1547)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+
+
+Jul 05, 2017 2:37:01 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:37:01 PM SimpleLogger severe
+SEVERE: java.lang.NullPointerException
+	at PhotoBooth.saveCameraPictureToTempFolder(PhotoBooth.java:299)
+	at PageTakePhoto.showWhiteFlashAndTakePhoto(PageTakePhoto.java:95)
+	at PageTakePhoto.updatePage(PageTakePhoto.java:58)
+	at PageCollection.updateActivePage(PageCollection.java:71)
+	at PhotoBooth.draw(PhotoBooth.java:207)
+	at processing.core.PApplet.handleDraw(PApplet.java:2439)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1547)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+
+
+Jul 05, 2017 2:37:02 PM SimpleLogger info
+INFO: Page Take Photo white flash faded.
+
+Jul 05, 2017 2:37:03 PM SimpleLogger severe
+SEVERE: java.lang.NullPointerException
+	at PhotoBooth.saveCameraPictureToTempFolder(PhotoBooth.java:299)
+	at PageTakePhoto.showWhiteFlashAndTakePhoto(PageTakePhoto.java:95)
+	at PageTakePhoto.updatePage(PageTakePhoto.java:58)
+	at PageCollection.updateActivePage(PageCollection.java:71)
+	at PhotoBooth.draw(PhotoBooth.java:207)
+	at processing.core.PApplet.handleDraw(PApplet.java:2439)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1547)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+
+
+Jul 05, 2017 2:37:03 PM SimpleLogger info
+INFO: Page ShowGif setup finished.
+
+Jul 05, 2017 2:37:30 PM SimpleLogger info
+INFO: Photo booth finished.
+
+Jul 12, 2017 6:07:31 PM SimpleLogger info
+INFO: Setup started.
+
+Jul 12, 2017 6:07:36 PM SimpleLogger severe
+SEVERE: java.lang.Exception: No cameras available for capture.
+	at PhotoBooth.setup(PhotoBooth.java:170)
+	at processing.core.PApplet.handleDraw(PApplet.java:2414)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1547)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+
+
+Jul 12, 2017 6:07:36 PM SimpleLogger info
+INFO: Photo booth finished.
+
+Jul 12, 2017 6:07:56 PM SimpleLogger info
+INFO: Setup started.
+
+Jul 12, 2017 6:07:59 PM SimpleLogger severe
+SEVERE: java.lang.Exception: No cameras available for capture.
+	at PhotoBooth.setup(PhotoBooth.java:170)
+	at processing.core.PApplet.handleDraw(PApplet.java:2414)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1547)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+
+
+Jul 12, 2017 6:07:59 PM SimpleLogger info
+INFO: Photo booth finished.
+
+Jul 12, 2017 6:08:12 PM SimpleLogger info
+INFO: Setup started.
+
+Jul 12, 2017 6:08:15 PM SimpleLogger severe
+SEVERE: java.lang.Exception: No cameras available for capture.
+	at PhotoBooth.setup(PhotoBooth.java:170)
+	at processing.core.PApplet.handleDraw(PApplet.java:2414)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1547)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+
+
+Jul 12, 2017 6:08:15 PM SimpleLogger info
+INFO: Photo booth finished.
+
+Aug 16, 2017 4:15:52 PM SimpleLogger info
+INFO: Setup started.
+
+Aug 16, 2017 4:15:57 PM SimpleLogger severe
+SEVERE: java.lang.Exception: No cameras available for capture.
+	at PhotoBooth.setup(PhotoBooth.java:170)
+	at processing.core.PApplet.handleDraw(PApplet.java:2412)
+	at processing.awt.PSurfaceAWT$12.callDraw(PSurfaceAWT.java:1547)
+	at processing.core.PSurfaceNone$AnimationThread.run(PSurfaceNone.java:316)
+
+
+Aug 16, 2017 4:15:57 PM SimpleLogger info
+INFO: Photo booth finished.
+
